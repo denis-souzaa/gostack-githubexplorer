@@ -8,7 +8,7 @@ Para rodar o projeto, faça clone do mesmo para sua máquina e execute os passos
 
 - execute o comando `yarn` ou `npm install` para baixar as dependências do projeto.
 
-- execute o comando `yarn start` ou `npm run start` para iniciar o servidor local.
+- execute o comando `yarn start` ou `npm start` para iniciar o servidor local.
 
 - No browser, acessa o `localhost:3000` e aplicação estará disponivel
 
